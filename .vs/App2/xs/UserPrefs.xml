@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{6A132E5A-F172-7BA6-43DE-DAE2B5E40C51}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnterName.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnterName.cs" Line="28" Column="8" IsPinned="True" />
+      <File FileName="Assets/Scripts/TimerController.cs" Line="18" Column="46" />
+      <File FileName="Assets/Scripts/Variables.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/PauseMenu.cs" Line="19" Column="35" />
+      <File FileName="Assets/Scripts/PauseControl.cs" Line="30" Column="29" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/Leaderboard.cs" Line="12" Column="29" />
+      <File FileName="Assets/Scripts/FileHandler.cs" Line="18" Column="25" />
+      <File FileName="Assets/Scripts/ShowScores.cs" Line="17" Column="25" />
+      <File FileName="Assets/Scripts/ShowNames.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/GameEnding.cs" Line="34" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="EnterName.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dd663ae4-013f-41c2-b0dc-e58dfb2048a7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mishahumayun/App2/Assets/Scripts/TimerController.cs" relfile="Assets/Scripts/TimerController.cs" line="9" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
